@@ -45,6 +45,11 @@ Me encontre também no Instagram: @santos04k
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <br/>
+  </a>
+</p>
+
+---
 <br/>
+### 📊 Tecnologias
 ![Rafael Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Santos04k&show_icons=true&theme=onedark&locale=pt-br)
 ![Linguagens e Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=Santos04k&layout=compact)
