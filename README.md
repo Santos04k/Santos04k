@@ -49,7 +49,7 @@ Me encontre também no Instagram: @santos04k
 </p>
 
 ---
-<br/>
+
 ### 📊 Tecnologias
 
 ![Rafael Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Santos04k&show_icons=true&theme=onedark&locale=pt-br)
